@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.pulse-dot {
+  width: 4.5rem;
+  height: 4.5rem;
+  top: 2%;
+  left: 1%;
+  background: gray;
+  border-radius: 50%;
+  position: absolute;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+*{
+  box-sizing: border-box;
+}
+
+
+
+
+
